@@ -28,3 +28,5 @@ Soy **Estudiante de geologia** y **Estudiante de programación** de Bucaramanga,
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** .
 
 tecnologia
+
+casa
