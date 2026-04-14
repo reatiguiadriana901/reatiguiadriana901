@@ -1,32 +1,56 @@
-<h1 align="center">¡Hola! Soy Adriana Reatigui🌎💻</h1>
-<h4 align="center">Geóloga y Desarrolladora de Sofware en Formación</h4>
-
+<h1 align="center">¡Hola! Soy Adriana Reatigui 🌎💻</h1>
+<h4 align="center">Geóloga · Desarrolladora de Software en Formación</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Apasionada+por+la+ciencia+y+la+tecnología+%F0%9F%93%98;Descifrando+la+tierra+y+los+algoritmos+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=560&lines=📘+Apasionada+por+la+ciencia+y+la+tecnología;🚀+Descifrando+la+tierra+y+los+algoritmos;✨+Siempre+aprendiendo+algo+nuevo;🗺️+Geología+%2B+Código+%3D+Mi+mundo" alt="Typing SVG" />
 </p>
 
-</p>
 <p align="center">
   <em>"Me gusta entender cómo funcionan las cosas"</em>
 </p>
 
 <p align="center">
-  <a href="mailto:reatiguiadriana901@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/reatiguiadriana901/reatiguiadriana901"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:reatiguiadriana901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-0D9488?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/reatiguiadriana901">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=reatiguiadriana901&color=0891B2&style=for-the-badge&label=Visitas" />
 </p>
 
 ---
 
-## Sobre mí
+## 🪨 Sobre mí
 
-Soy **Estudiante de geologia** y **Estudiante de programación** de Bucaramanga, Santander (Colombia), Me gusta ver como la tecnología puede contribuir a la ciencia y hacer de la investigación un proceso más rápido y eficaz.
+Soy **estudiante de Geología** y **estudiante de Programación** de Bucaramanga, Colombia. Creo que la tecnología puede acelerar la investigación científica y hacerla más accesible.
 
 - 👩‍🔬 Me gusta aprender cosas nuevas y entender el mundo que me rodea
-- 🌍 Me interesa dejar una marca en el mundo y generar un impacto real
-- 👩‍💻Interesado en tecnología, ciencia, idiomas y exploración personal.
-- 🗣️ Idiomas: **Español (nativo)** · **Inglés (intermedio)** .
+- 🌍 Me interesa dejar una marca real en el mundo 
+- 👩‍💻 Interesada en tecnología, ciencia, idiomas y exploración personal
+- 🗣️ **Español** (nativo) · **Inglés** (intermedio)
 
-tecnologia
+---
 
-casa
+## 🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-0D9488?style=for-the-badge&logo=python&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-0891B2?style=for-the-badge&logo=esri&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-6D28D9?style=for-the-badge&logo=qgis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D9488?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌱 Actualmente
+
+- 💻 Aprendiendo programación en distintos lenguajes como parte de mi formación como desarrolladora
+- 🗺️ Desarrollando mi tesis de pregrado sobre análisis morfoestructural del campo volcánico monogenético Isnos–San Agustín, Huila
+- 🌐 Mejorando mi nivel de inglés para abrirme a oportunidades internacionales
+- 🤝 Fortaleciendo habilidades blandas: comunicación, trabajo en equipo y liderazgo
+
+
+---
+
+<p align="center">
+  <em>"Si no lo entiendo, lo investigo. Si lo investigo, lo aprendo."</em>
+</p>
