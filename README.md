@@ -112,7 +112,7 @@ Soy **geóloga** (Universidad Industrial de Santander) y **desarrolladora junior
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriana_Reatigui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriana_Reatigui-0A66C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-reatigui-333655322/)
 [![Email](https://img.shields.io/badge/Correo-reatiguiadriana901@gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reatiguiadriana901@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-C2410C?style=for-the-badge&logo=githubpages&logoColor=white)](https://reatiguiadriana901.github.io/portafolio-adriana-reatigui/)
 [![GitHub](https://img.shields.io/badge/GitHub-reatiguiadriana901-292524?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reatiguiadriana901)
